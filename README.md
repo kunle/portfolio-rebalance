@@ -86,8 +86,14 @@ sample test output
 
 11 passing (17ms)
 ```
+
 to start the app which would be hosted on ```localhost:3000```
+
 ```
 $ npm start
 ```
+
+### Why nodejs
+I decided to implement the solution as a REST webservice in nodejs. I chose nodejs because I wanted to be able to spin up something quickly and really just focus on solving the problem, nodejs stays out of your way in terms of environment setup and plumbing, serving a REST service could not be easier in nodejs. I considered Java (rest webservice or command line app), but considering the time frame(few hours) and problem not being complex I went with nodejs. I also considered excel but it would have been too easy and will not serve the purpose.
+
 
