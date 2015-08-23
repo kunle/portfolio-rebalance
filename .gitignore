@@ -1,0 +1,13 @@
+*.sw?
+.#*
+*#
+*~
+.classpath
+.project
+.settings
+build
+target
+/scratch
+/node_modules
+*.iml
+.idea
