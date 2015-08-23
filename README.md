@@ -48,7 +48,7 @@ POST /portfolio?action=rebalance
 
 ### Installation/setup
 
-Install nodejs ()
+Install nodejs (https://nodejs.org/)
 
 Clone this repo ```https://github.com/kunle/portfolio-rebalnce.git```
 
