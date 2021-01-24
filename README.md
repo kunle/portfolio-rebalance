@@ -56,14 +56,9 @@ in the folder with source do the following to download all the dependencies
 ```
 $ npm install
 ```
-to run the tests, you will need to install mocha
-```
-$ npm install mocha -g
-```
 to run the tests
-
 ```
-$ mocha test
+$ npm test
 ```
 
 sample test output
